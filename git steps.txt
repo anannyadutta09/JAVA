@@ -1,0 +1,13 @@
+Git steps
+1. to clone a repo into a folder
+git clone https://github.com/anannyadutta09/JAVA.git
+
+2. to push changes from local device to git
+git status    -----will show the status of changes in red
+git add *		---will add the changes for push
+git status		---will show the changes in green
+git commit -m "your comment"  ----adds the comment for the changes
+git push   			-----send the changes to the git repo
+
+3. to pull the code
+git pull
